@@ -47,3 +47,6 @@
 
 // Most tactile encoders have detents every 4 stages
 #define ENCODER_RESOLUTION 4
+
+// e.g. speed of how long tapping tab turns into ctrl
+#define TAPPING_TERM 100
