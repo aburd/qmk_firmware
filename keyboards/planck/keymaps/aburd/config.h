@@ -49,4 +49,4 @@
 #define ENCODER_RESOLUTION 4
 
 // e.g. speed of how long tapping tab turns into ctrl
-#define TAPPING_TERM 100
+#define TAPPING_TERM 120
